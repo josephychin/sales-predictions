@@ -41,7 +41,8 @@ To clean the data Item Fat Content different names were organized. For the missi
   
 # Part 3
 
-A bar graph and pie charts were used to help understand, explain, model the data.![download (14)](https://user-images.githubusercontent.com/37349912/126885257-5547c683-6ce3-4b22-ade2-f280295110a4.png)
+A bar graph and pie charts were used to help understand, explain, model the data.
+![download (14)](https://user-images.githubusercontent.com/37349912/126885257-5547c683-6ce3-4b22-ade2-f280295110a4.png)
 ![download (15)](https://user-images.githubusercontent.com/37349912/126885258-5686f541-69d2-417b-9e0f-63f2b4451991.png)
 ![download (16)](https://user-images.githubusercontent.com/37349912/126885271-c11e0f7f-d2f3-4478-8782-5ea3756bc0a8.png)
   
