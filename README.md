@@ -48,7 +48,6 @@ A bar graph and pie charts were used to help understand, explain, model the data
 # Part 4
 
 Histograms, boxplots and heatmap were used to help stakeholders better understand trends in the data.
-![download (17)](https://user-images.githubusercontent.com/37349912/126885343-dd2b2667-9ec8-4403-9093-f7057e658804.png)
 ![download (18)](https://user-images.githubusercontent.com/37349912/126885344-d9ca6ea6-9b46-460d-96f5-9e3340f0c5ae.png)
 ![download (19)](https://user-images.githubusercontent.com/37349912/126885345-bd1941f7-37fb-48c2-b780-b38b3cef028b.png)
 
